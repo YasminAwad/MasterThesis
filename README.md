@@ -1,5 +1,5 @@
 # Evaluation of Metrics for Neural-network-based Summarization
-This repository contains the pdf files of my master thesis made in the Polytechnic of Milan University and Doshisha University.
+This repository contains the pdf files of my master thesis and its executive summary. The thesis was completed during my studies at Polytechnic of Milan University and Doshisha University.
 
 ### Abstract
 
